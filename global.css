@@ -1,1 +1,10 @@
-
+body {
+  margin: 0;
+  font-family: sans-serif;
+  background: #f9f9f9;
+  color: #333;
+}
+.app {
+  text-align: center;
+  padding: 2rem;
+}
